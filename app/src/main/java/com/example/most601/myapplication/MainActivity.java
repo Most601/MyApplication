@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
 
+        String idan = " ffffff";
 
     }
 }
